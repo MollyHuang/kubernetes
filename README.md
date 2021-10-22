@@ -22,3 +22,4 @@ chmod 777 delete.sh
 ./delete.sh
 ```
 
+這是 selinux 的版本，ubuntu不適用。
