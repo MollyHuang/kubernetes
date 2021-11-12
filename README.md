@@ -24,3 +24,4 @@ chmod 777 delete.sh
 ```
 
 這是 selinux 的版本，ubuntu不適用。
+必須支持 yum 指令才行。
