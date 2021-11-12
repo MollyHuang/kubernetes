@@ -3,7 +3,8 @@
 下载脚本
 
 ```shell
-git clone https://github.com/w910820618/kubernetes.git
+git clone https://github.com/MollyHuang/kubernetes.git
+
 ```
 
 部署程序
