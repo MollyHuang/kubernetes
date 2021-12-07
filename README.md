@@ -1,6 +1,6 @@
 # Kubernetes一键安装
 
-下载脚本
+下載腳本
 
 ```shell
 git clone https://github.com/MollyHuang/kubernetes.git
